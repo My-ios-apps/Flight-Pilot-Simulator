@@ -1,0 +1,107 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f7d84f7ec5340f944bc221ab4064daae, type: 3}
+  m_Name: NeLevels Data Handler
+  m_EditorClassIdentifier: 
+  levelData:
+  - LevelName: Level1
+    PlaneSpawnPos: {x: 34369.06, y: 987.1836, z: -13513.101}
+    PlaneSpawnRot: {x: 0.022805262, y: 0.012898039, z: -0.00029368442, w: 0.9996567}
+    ChangeInputValuesDefault: 0
+    StopRigidBodyPositions: 1
+    LoadAdditiveScene: 0
+    RequireSpecificPlane: 0
+    PlaneIndex: 0
+    OnCompleteRewardAmount: 1000
+    LevelTimerLenght: 0
+    PlanePitchEffect: 1
+    AdditiveSceneName: 
+    Objective: 
+  - LevelName: Level2
+    PlaneSpawnPos: {x: 34623.7, y: 83.4, z: -12433.1}
+    PlaneSpawnRot: {x: -0.011523615, y: 0.0031202834, z: -0.00016432066, w: 0.9999287}
+    ChangeInputValuesDefault: 0
+    StopRigidBodyPositions: 0
+    LoadAdditiveScene: 0
+    RequireSpecificPlane: 0
+    PlaneIndex: 1
+    OnCompleteRewardAmount: 1500
+    LevelTimerLenght: 0
+    PlanePitchEffect: 1
+    AdditiveSceneName: 
+    Objective: 
+  - LevelName: Level3
+    PlaneSpawnPos: {x: 34572.816, y: 591.05786, z: -15541.249}
+    PlaneSpawnRot: {x: -0.033245236, y: 0.05962147, z: -0.0019893532, w: -0.99766535}
+    ChangeInputValuesDefault: 0
+    StopRigidBodyPositions: 1
+    LoadAdditiveScene: 0
+    RequireSpecificPlane: 0
+    PlaneIndex: 1
+    OnCompleteRewardAmount: 2000
+    LevelTimerLenght: 0
+    PlanePitchEffect: 1
+    AdditiveSceneName: 
+    Objective: 
+  - LevelName: Level4
+    PlaneSpawnPos: {x: 34623.7, y: 83.4, z: -12433.1}
+    PlaneSpawnRot: {x: -0.011523615, y: 0.0031202834, z: -0.00016432066, w: 0.9999287}
+    ChangeInputValuesDefault: 0
+    StopRigidBodyPositions: 0
+    LoadAdditiveScene: 0
+    RequireSpecificPlane: 1
+    PlaneIndex: 1
+    OnCompleteRewardAmount: 3500
+    LevelTimerLenght: 0
+    PlanePitchEffect: 1
+    AdditiveSceneName: 
+    Objective: 
+  - LevelName: Level5
+    PlaneSpawnPos: {x: 34605.7, y: 81.6, z: -12323.6}
+    PlaneSpawnRot: {x: 0.000000625135, y: -0.003122799, z: 0.0002001832, w: -0.9999951}
+    ChangeInputValuesDefault: 0
+    StopRigidBodyPositions: 0
+    LoadAdditiveScene: 0
+    RequireSpecificPlane: 1
+    PlaneIndex: 0
+    OnCompleteRewardAmount: 4000
+    LevelTimerLenght: 0
+    PlanePitchEffect: 1
+    AdditiveSceneName: 
+    Objective: 
+  - LevelName: Level6
+    PlaneSpawnPos: {x: 34623.7, y: 83.4, z: -12433.1}
+    PlaneSpawnRot: {x: -0.011523615, y: 0.0031202834, z: -0.00016432066, w: 0.9999287}
+    ChangeInputValuesDefault: 0
+    StopRigidBodyPositions: 0
+    LoadAdditiveScene: 0
+    RequireSpecificPlane: 1
+    PlaneIndex: 2
+    OnCompleteRewardAmount: 4500
+    LevelTimerLenght: 0
+    PlanePitchEffect: 1
+    AdditiveSceneName: 
+    Objective: 
+  - LevelName: Level7
+    PlaneSpawnPos: {x: 34623.7, y: 83.4, z: -12433.1}
+    PlaneSpawnRot: {x: -0.011523615, y: 0.0031202834, z: -0.00016432066, w: 0.9999287}
+    ChangeInputValuesDefault: 0
+    StopRigidBodyPositions: 0
+    LoadAdditiveScene: 0
+    RequireSpecificPlane: 1
+    PlaneIndex: 2
+    OnCompleteRewardAmount: 4500
+    LevelTimerLenght: 0
+    PlanePitchEffect: 1
+    AdditiveSceneName: 
+    Objective: 
+  RescueLevelData: []

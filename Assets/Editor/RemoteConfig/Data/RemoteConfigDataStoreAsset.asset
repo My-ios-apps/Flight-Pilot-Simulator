@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 469c24fdb3bd6431b92cc1465bd9166b, type: 3}
+  m_Name: RemoteConfigDataStoreAsset
+  m_EditorClassIdentifier: 
+  _rsKeyList: "[\n  {\n    \"metadata\": {\n      \"entityId\": \"f106f15d-f95c-40d2-97e8-c55cc7d4b30f\"\n   
+    },\n    \"rs\": {\n      \"key\": \"AdsSettings\",\n      \"type\": \"json\",\n     
+    \"schemaId\": null,\n      \"value\": {\n        \"ShowInternetPopup\": false,\n       
+    \"ShowAppOpen\": true,\n        \"ShowMediationOn2GB\": true,\n        \"NextInterstitialDelay\":
+    10\n      }\n    }\n  }\n]"
+  _rsLastCachedKeyList: "[\n  {\n    \"metadata\": {\n      \"entityId\": \"f106f15d-f95c-40d2-97e8-c55cc7d4b30f\"\n   
+    },\n    \"rs\": {\n      \"key\": \"AdsSettings\",\n      \"type\": \"json\",\n     
+    \"schemaId\": null,\n      \"value\": {\n        \"ShowInternetPopup\": false,\n       
+    \"ShowAppOpen\": true,\n        \"ShowMediationOn2GB\": true,\n        \"NextInterstitialDelay\":
+    10\n      }\n    }\n  }\n]"
+  _environments: "[\n  {\n    \"projectId\": \"37bf5ece-e9ae-4b8a-9ed4-7aeac0815f59\",\n   
+    \"name\": \"production\",\n    \"id\": \"141caead-cfe4-4001-9c16-555a7f00dfde\",\n   
+    \"isDefault\": true,\n    \"createdAt\": \"2023-06-06T16:59:56Z\",\n    \"updatedAt\":
+    \"2023-06-06T16:59:56Z\"\n  }\n]"
